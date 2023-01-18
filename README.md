@@ -5,10 +5,11 @@
 <!-- <h1 align="center">Fundamentals Guide</h1> -->
 Hola!
 Todos mis ejercicios resueltos de todo el bootcamp se encuentran enlistados acá, por semana:
-- [Semana 1]()
-- [Semana 2]()
-- [Semana 3]()
-- [Semana 4]()
-- [Semana 5]()
-- [Semana 6]()
-- [Semana 7]()
+- [Semana 1](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-1)
+- [Semana 2](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-2)
+- [Semana 3](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-3)
+- [Semana 4](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-4)
+- [Semana 5](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-5)
+- [Semana 6](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-6)
+- [Semana 7](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-7)
+- [Semana 8](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-8)
