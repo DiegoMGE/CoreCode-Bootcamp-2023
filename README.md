@@ -15,4 +15,4 @@ Todos mis ejercicios resueltos de todo el bootcamp se encuentran enlistados acá
 - Semana 8: [JavaScript](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-8)
 - Semana 9: [JavaScript](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-9)
 - Semana 10: [JavaScript](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-10)
-- Semana 11: [JavaScript](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-11)
+- Semana 11: [React](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-11)
