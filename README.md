@@ -18,5 +18,6 @@ All my progress from the **"Fundamentals Bootcamp"** is listed here:
 - Week 11: [React](https://github.com/DiegoMGE/corecode-bootcamp-fundamentals-week11)
 - Week 12: [Node.JS](https://github.com/DiegoMGE/corecode-bootcamp-fundamentals-week12)
 - Week 13: [Node.JS & DB](https://github.com/DiegoMGE/corecode-bootcamp-fundamentals-week13)
+- Week 14: [Project Integration & S.O.L.I.D](https://github.com/DiegoMGE/corecode-bootcamp-fundamentals-week14)
 
 So glad with whole team at **Core Code** for let me be part of this awesome adventure where I discovered no only new code practices, but new great people. 🔥
